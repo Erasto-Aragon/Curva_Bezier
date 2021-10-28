@@ -28,7 +28,8 @@ Indagamos en la wed, para hallar este proceso, el cual nos permite aplicar la fu
 
 ## Resultado obtenido
 
-![Curva_Bezier 2021-10-27 17-14-59](https://user-images.githubusercontent.com/71147346/139155490-94fa3dcd-3376-4d15-999e-179b0777250c.gif)
+![Curva_Bezier 2021-10-27 19-44-05](https://user-images.githubusercontent.com/71147346/139167453-cf3ee085-c9fe-4532-af85-c1663bfda2cd.gif)
+
 
 
 
